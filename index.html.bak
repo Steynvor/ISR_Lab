@@ -17,7 +17,7 @@
       <ul id="navigation">
         <li><a href="index.html">Home</a></li>
         <li><a href="#">About Us</a></li>
-        <li><a href="services.html">Services</a></li> <!-- close the services <li>-->
+        <li><a href="services.html">Services </a></li> <!-- close the services <li>-->
         <li><a href="sitemap.php">Site Map</a> </li>
         <li><a href="contact.html"  style="background-image:none;">Contact Us</a></li>
       </ul>
